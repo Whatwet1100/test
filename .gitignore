@@ -1,0 +1,18 @@
+# 编译生成文件
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.o
+*.dll
+*.lib
+*.idb
+
+# VS IDE配置文件
+.vs/
+*.suo
+*.user
+*.sln
+*.vcxproj
+
+
